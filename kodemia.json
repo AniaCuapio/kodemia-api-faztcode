@@ -1,0 +1,20 @@
+{
+    "koders": [
+        {
+            "name": "Juan",
+            "gender": "male"
+        },
+        {
+            "name": "Mau",
+            "gender": "x"
+        },
+        {
+            "name": "Nitzeli",
+            "gender": "female"
+        },
+        {
+            "name": "Ania",
+            "gender": "heteroflex"
+        }
+    ]
+}
